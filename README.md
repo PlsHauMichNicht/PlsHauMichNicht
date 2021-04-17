@@ -2,6 +2,8 @@
 - 👀 I make Discord Bots & FiveM Scripts
 - 📫 How to reach me: https://discord.gg/AkczuAkJb6 
 
+![Mich's Discord Server](https://discordapp.com/api/guilds/794969725822042132/widget.png?style=banner4)
+
 ![Mich's GitHub stats](https://github-readme-stats.vercel.app/api?username=plshaumichnicht)
 
 <!---
