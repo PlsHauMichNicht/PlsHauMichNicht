@@ -31,7 +31,13 @@
 
 <br />
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plshaumichnicht&layout=compact)
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+</details>
+
 
 <br />
 
