@@ -1,6 +1,7 @@
 ### Hi there, I'm PlsHauMichNicht but just call me Mich 👋
 
 <br />
+<br />
 
 ---
 
@@ -9,6 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👀 I make Discord Bots & FiveM Scripts
 
+<br />
 <br />
 
 ---
