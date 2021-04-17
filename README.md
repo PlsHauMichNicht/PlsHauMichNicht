@@ -1,6 +1,7 @@
 ### Hi there, I'm PlsHauMichNicht but just call me Mich 👋
 
 <br />
+
 ---
 
 ## I'm a Developer
@@ -9,6 +10,7 @@
 - 👀 I make Discord Bots & FiveM Scripts
 
 <br />
+
 ---
 
 ### Connect with me:
@@ -18,6 +20,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/plshaumichnicht)
 
 <br />
+
 ---
 
 ### Languages:
@@ -27,6 +30,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <br />
+
 ---
 
 ### Tools:
