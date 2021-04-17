@@ -1,8 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/plshaumichnicht/plshaumichnicht/md.gif" />
-
-<br />
----
-
 ### Hi there, I'm PlsHauMichNicht but just call me Mich 👋
 
 <br />
