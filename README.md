@@ -67,6 +67,6 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plshaumichnicht)
 
 </details>
