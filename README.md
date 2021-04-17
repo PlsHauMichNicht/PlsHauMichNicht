@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PlsHauMichNicht but just call me Mich
+- 👋 Hi, I’m PlsHauMichNicht but just call me Mich
 - 👀 I make Discord Bots & FiveM Scripts
 - 📫 How to reach me: https://discord.gg/AkczuAkJb6 
 
