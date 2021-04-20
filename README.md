@@ -25,22 +25,8 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Mich'S GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=plshaumichnicht&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plshaumichnicht)
 
 </details>
