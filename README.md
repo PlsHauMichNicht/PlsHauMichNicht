@@ -11,7 +11,7 @@
 <br />
 
 ---
-### My Discord Bots:
+## My Discord Bots:
 
 - [MD WatchDog](https://discord.com/api/oauth2/authorize?client_id=831264130869755994&permissions=8&scope=bot)
 - Prefix is: .
@@ -20,7 +20,7 @@
 
 ---
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Discord" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/discord.svg" />](https://discord.gg/swTPK6rfFd)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MichDevelopment)
