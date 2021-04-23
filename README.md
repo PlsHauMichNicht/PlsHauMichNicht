@@ -25,6 +25,12 @@
 
 ---
 
+![Discord](https://discordapp.com/api/guilds/794969725822042132/widget.png?style=banner1)
+
+<br />
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
