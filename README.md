@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👀 I make Discord Bots & FiveM Scripts
-- 📫 How to reach me: [<img alt="Discord" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/discord.svg" />](https://discord.com/users/477108488653373478) PlsHauMichNicht#0079
-- 📱 Join my Discord server if you want a custom discord bot 
+- 📫 How to reach me: [<img alt="Discord" width="15px" src="https://github.com/gilbarbara/logos/blob/master/logos/discord.svg" />](https://discord.com/users/477108488653373478) PlsHauMichNicht#0079
 <br />
 
 ---
