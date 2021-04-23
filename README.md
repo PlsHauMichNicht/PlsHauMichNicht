@@ -25,7 +25,7 @@
 
 ---
 
-![Discord](https://discordapp.com/api/guilds/794969725822042132/widget.png?style=banner2)
+[![Discord](https://discordapp.com/api/guilds/794969725822042132/widget.png?style=banner2)](https://discord.gg/swTPK6rfFd)
 
 <br />
 
