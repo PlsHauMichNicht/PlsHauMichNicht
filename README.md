@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👀 I make Discord Bots & FiveM Scripts
+- 📱 Join my Discord server if you want a custom discord bot 
 <br />
 
 ---
