@@ -15,20 +15,12 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Discord" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/discord.svg" />](https://discord.gg/swTPK6rfFd)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MichDevelopment)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/plshaumichnicht)
 
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Discord</summary>
-
-  [![Discord](https://discordapp.com/api/guilds/794969725822042132/widget.png?style=banner2)](https://discord.gg/swTPK6rfFd)
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
